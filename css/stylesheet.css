@@ -19,8 +19,12 @@ p {
   letter-spacing: 5px;
 }
 
-.navbar-nav, .navbar-header, li a:hover {
-  color: #1abc9c !important;
+.navbar-nav, li a:hover {
+  color: #48A9A6 !important;
+}
+
+.navbar-header, li a:hover {
+  color: #48A9A6 !important;
 }
 
 .margin {
