@@ -9,4 +9,4 @@ LinkedIn [link](https://www.linkedin.com/in/wayne-mwandi-260141b9/)
 * Click on this [link](https://CommanderBlak.github.io/CV) to access the gh-pages website.
 
 ## Legal
-Copyright (c) 2017 **Wayne Mwandi**. All rights reserved
+Copyright (c) 2019 - 2020  **Wayne Mwandi**. All rights reserved
