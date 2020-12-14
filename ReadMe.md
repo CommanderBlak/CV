@@ -1,12 +1,21 @@
-Designer: **Wayne Mwandi**
-GitHub handle: **CommanderBlak**
-LinkedIn [link](https://www.linkedin.com/in/wayne-mwandi-260141b9/)
+# CV/Resume Website 
 
-# Personal Website (CV / Resume)
-### This is my personal website that includes my name, contact details and downloadable CV in PDF form.
-### It also includes links to projects I have worked on.  
 
-* Click on this [link](https://CommanderBlak.github.io/CV) to access the gh-pages website.
+## Designer: **Wayne Mwandi**
+<br>
 
-## Legal
-Copyright (c) 2017 **Wayne Mwandi**. All rights reserved
+**GitHub** handle username: **[waynemwandi](https://github.com/waynemwandi)**
+<br>
+**Portfolio** website: **[Wayne's Porfolio](https://github.com/PPortfolio)**
+
+**Social Media links:** <br>
+* [LinkedIn](https://www.linkedin.com/in/wayne-mwandi/) <br>
+* [Twitter](https://twitter.com/mwandi_wayne/) <br> 
+* [Facebook](https://www.facebook.com/wayne.mwandi/) <br>
+
+### This is my CV/Resume website that includes some of my CV infomration, my contact details and a downloadable PDF copy. <br>
+
+* Click on this ***[link](https://waynemwandi.github.io/CV)** to access the website.
+
+## Legal | Licencing
+### **Copyright© 2019 - 2020  Wayne Mwandi. All rights reserved.**
